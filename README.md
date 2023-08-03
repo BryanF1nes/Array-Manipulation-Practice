@@ -34,7 +34,5 @@ Write a function that takes an array and a number 'k' as input and rotates the a
 **Bonus: Chunk Array:**
 Write a function that takes an array and a chunk size as input and returns a new array of smaller arrays, each containing the specified chunk size of elements from the original array.
 
-Feel free to try out these exercises to enhance your array manipulation skills. As you work through them, you'll gain confidence in handling arrays and become more proficient in solving array-related programming problems. Happy coding!
-
 ---
 All questions were generated with the help of ChatGPT.
